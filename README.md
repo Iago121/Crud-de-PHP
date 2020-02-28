@@ -1,4 +1,4 @@
-CRU de Oficina Mecânica
+CRUD de Oficina Mecânica
    A ideia do projeto é facilitar uma tarefa de uma pequena empresa de mecânica, pois estavam perdendo seus clientes por não organização com o papel, eles pediram algo simples no qual pudessem consultar o orçamento e cadastrar os clientes que ali chegavam. 
 
  Com esse propósito decidi criar um “CRUD” bem simples apenas para cadastro e acompanhamento de seus clientes, assim facilitando o que o usuário pedia. 
